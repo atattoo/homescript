@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /mnt/homescript
+git add .
+git commit -m 'Update Homescripts'
+git push  https://github.com/atattoo/homescript.git
